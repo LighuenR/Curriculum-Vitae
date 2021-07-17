@@ -33,7 +33,7 @@ const estudios = [{
     "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg",
     "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg",
     "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg",
-    "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg",
+    
     "https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg",
     "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg",
     "https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg",
@@ -47,7 +47,8 @@ const lenguajesAprendiendo = [
     "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
     "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg",
     "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
-    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"    
+    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg",
+    "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"    
 ]
 
 // Cambia el nombre del H1 que con tiene el nombre del usuario
