@@ -29,8 +29,7 @@ const estudios = [{
 ];
 
 /* const lenguajesActuales = [
-    "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg",
-    
+    "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg",   
     "https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg",
     "https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg",
     "https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg",
