@@ -2,6 +2,9 @@
 
 body {
     font-family: 'Roboto', sans-serif;
+    background: url('./images/background.jpg');
+    background-repeat: repeat;
+    background-size: 100%;
 }
 
 .entry {
