@@ -49,3 +49,8 @@ a:hover {
     margin: 10px 5px 10px 5px;
     margin-top: 10px;
 }
+
+.card {
+    background-color: rgb(255, 255, 255, 0.4);
+    backdrop-filter: blur(10px);
+}
