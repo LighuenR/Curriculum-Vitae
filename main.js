@@ -4,12 +4,12 @@ const experiencia = [
     {
         lugar: "La Table de Xavier MATHIEU",
         periodo: "Sep 2018 - Dic 2020",
-        descripción: "Chef de partida estacion pescados, encargado de pasantes, manipulacion de materia prima"
+        descripción: "Chef de partida estación pescados, encargado de pasantes, manipulación de materia prima."
     },
     {
-    lugar: "Republica restaurant",
-    periodo: "Ene 2016 -  Dic 2018",
-    descripción: "Encargado de cocina, responsable de la produccion con personal a cargo"
+        lugar: "Republica restaurant",
+        periodo: "Ene 2016 -  Dic 2018",
+        descripción: "Encargado de cocina, responsable de la producción con personal a cargo."
     }
     
     
@@ -18,7 +18,7 @@ const experiencia = [
 const estudios = [{
     lugar: "IGA Córdoba | Instituto Gastronómico de las Américas",
     periodo: "2013-2015",
-    descripción: "Profesional Gastronomico"
+    descripción: "Profesional Gastronómico"
     },
     {
     lugar: "Saul A. Taborda",
