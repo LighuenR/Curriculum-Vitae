@@ -70,8 +70,8 @@ for (i = 0; i < estudios.length; i++){
     var item = document.createElement("div")
     item.innerHTML =
     `<div class="d-flex justify-content-between">
-    <span class="card-title h6 exp-title">${estudios[i].lugar}</span>
-    <span class="exp-date">${estudios[i].periodo}</span>
+    <span class="card-title h6 exp-title mt-2"><strong>${estudios[i].lugar}</strong></span>
+    <span class="exp-date mt-2">${estudios[i].periodo}</span>
     </div>
     <p>${estudios[i].descripción}</p>`
     document.getElementById("estudios").appendChild(item)
