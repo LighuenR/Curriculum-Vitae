@@ -3,13 +3,13 @@ const nombre = "Lighuen Restanio"
 const experiencia = [
     {
         lugar: "La Table de Xavier MATHIEU",
-        periodo: "Sep 2018 - Dic 2020",
-        descripción: "Chef de partida estación pescados, encargado de pasantes, manipulación de materia prima."
+        periodo: "Sep 2018 - Dec 2020",
+        descripción: "Chef of fish station departure, interns in chaharge, handling of raw material. Michelin star restaurant"
     },
     {
         lugar: "Republica restaurant",
-        periodo: "Ene 2016 -  Dic 2018",
-        descripción: "Encargado de cocina, responsable de la producción con personal a cargo."
+        periodo: "Jan 2016 -  Dec 2018",
+        descripción: "Kitchen manager, responsible for production with staff in charge."
     }
     
     
@@ -17,13 +17,13 @@ const experiencia = [
 
 const estudios = [{
     lugar: "IGA Córdoba | Instituto Gastronómico de las Américas",
-    periodo: "2013-2015",
-    descripción: "Profesional Gastronómico"
+    periodo: "May 2013 - Dec 2015",
+    descripción: "Gastronomic Professional"
     },
     {
     lugar: "Saul A. Taborda",
-    periodo: "2004-2009",
-    descripción: "Bachiller en Ciencias Naturales y Medio Ambiente"
+    periodo: "May 2004 - Dec 2009",
+    descripción: "Bachelor of Natural Sciences and Environment"
     }
     
 ];
