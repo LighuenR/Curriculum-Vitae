@@ -2,6 +2,11 @@ const nombre = "Lighuen Restanio"
 
 const experiencia = [
     {
+        lugar:"CodeCave",
+        periodo:"Currently working",
+        descripción:"Trainee Fullstack. I provide support in freelance projects, collaborating on both the backend and the frontend using mostly vue.js and node.js"      
+        },
+    {
         lugar: "La Table de Xavier MATHIEU",
         periodo: "Sep 2018 - Dec 2020",
         descripción: "Chef of fish station departure, interns in chaharge, handling of raw material. Michelin star restaurant"
@@ -15,7 +20,9 @@ const experiencia = [
     
 ];
 
-const estudios = [{
+const estudios = [
+   
+    {
     lugar: "IGA Córdoba | Instituto Gastronómico de las Américas",
     periodo: "May 2013 - Dec 2015",
     descripción: "Gastronomic Professional"
