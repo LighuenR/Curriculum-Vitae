@@ -4,7 +4,7 @@ const experiencia = [
     {
         lugar:"CodeCave",
         periodo:"Currently working",
-        descripción:"Trainee Fullstack. I provide support in freelance projects, collaborating on both the backend and the frontend using mostly vue.js and node.js"      
+        descripción:"Fullstack developer. I provide support in freelance projects, collaborating on both the backend and the frontend using mostly vue.js and node.js"      
         },
     {
         lugar: "La Table de Xavier MATHIEU",
