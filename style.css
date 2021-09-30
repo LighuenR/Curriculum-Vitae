@@ -54,3 +54,18 @@ a:hover {
     background-color: rgb(255, 255, 255, 0.4);
     backdrop-filter: blur(10px);
 }
+
+.vue {
+    color: #35495E;
+    background: #41B883;
+}
+
+.node {
+    color: #83CD29;
+    background: #57574F;
+}
+
+.git {
+    background: #100E0F;
+    color: #F8F8F8;
+}
