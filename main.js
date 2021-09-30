@@ -4,12 +4,12 @@ const experiencia = [
     {
         lugar:"CodeCave",
         periodo:"Currently working",
-        descripción:"Fullstack developer. I provide support in freelance projects, collaborating on both the backend and the frontend using mostly vue.js and node.js"      
+        descripción:"I work on Freelance projects as a Frontend developer. Among my functions are the styling components and views using mostly CSS, Bootstrap, Vue, Vuex, Routes and Vuetify. Also collaborating on the backend with Node.js, Express and MongoDB"      
         },
     {
         lugar: "La Table de Xavier MATHIEU",
         periodo: "Sep 2018 - Dec 2020",
-        descripción: "Chef of fish station departure, interns in chaharge, handling of raw material. Michelin star restaurant"
+        descripción: "Chef at fiz station in restaurant with michelin star. Station manager, raw material handling with interns in charge. Communication in both English and French."
     },
     {
         lugar: "Republica restaurant",
