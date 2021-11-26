@@ -6,7 +6,7 @@ const experiencia = [
         periodo:"Currently working",
         descripción:"I work on Freelance projects as a Frontend developer. Among my functions are styling components and views using mostly CSS, Bootstrap, Vue, Vuex, Router and Vuetify. Also collaborating on the backend with Node.js, Express and MongoDB"      
         },
-    {
+  /*   {
         lugar: "La Table de Xavier MATHIEU",
         periodo: "Sep 2018 - Dec 2020",
         descripción: "Chef at fiz station in restaurant with michelin star. Station manager, raw material handling with interns in charge. Communication in both English and French."
@@ -15,7 +15,7 @@ const experiencia = [
         lugar: "Republica restaurant",
         periodo: "Jan 2016 -  Dec 2018",
         descripción: "Kitchen manager, responsible for production with staff in charge."
-    }
+    } */
     
     
 ];
