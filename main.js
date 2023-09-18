@@ -4,7 +4,7 @@ const experiencia = [
     {
         lugar:"CodeCave",
         periodo:"Currently working",
-        descripción:"I work on Freelance projects as a Frontend developer. Among my functions are styling components and views using mostly CSS, Bootstrap, Vue, Vuex, Router and Vuetify. Also collaborating on the backend with Node.js, Express and MongoDB"      
+        descripción:"Working for a variety of clients and agency's own applications and tools. Design and develop apps with HTML, CSS, Javascript and mainly Vue.js as framework."      
         },
   /*   {
         lugar: "La Table de Xavier MATHIEU",
