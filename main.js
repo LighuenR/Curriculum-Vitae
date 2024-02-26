@@ -23,6 +23,11 @@ const experiencia = [
 const estudios = [
    
     {
+    lugar: "Instituto Superior Santo Domingo",
+    periodo: "May 2022 - Present",
+    descripción: "Systems analyst"
+    },
+    {
     lugar: "IGA Córdoba | Instituto Gastronómico de las Américas",
     periodo: "May 2013 - Dec 2015",
     descripción: "Gastronomic Professional"
