@@ -3,7 +3,7 @@ const nombre = "Lighuen Restanio"
 const experiencia = [
     {
         lugar:"CodeCave",
-        periodo:"Currently working",
+        periodo:"March 2023 / Currently working",
         descripción:"Working for a variety of clients and agency's own applications and tools. Design and develop apps with HTML, CSS, Javascript and mainly Vue.js as framework."      
         },
   /*   {
@@ -49,7 +49,7 @@ const estudios = [
 ] */
 
 const lenguajesAprendiendo = [
-    "https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg",
+    "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg",
     "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg",
     "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg",
     "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
